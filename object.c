@@ -189,7 +189,4 @@ int object_read(const ObjectID *id, ObjectType *type_out, void **data_out, size_
     free(buf);
     return 0;
 }
-    // TODO: Implement
-    (void)id; (void)type_out; (void)data_out; (void)len_out;
-    return -1;
-}
+
