@@ -1,7 +1,7 @@
 # PES-VCS — Building a Version Control System from Scratch
 
-**Name:** [Your Name]  
-**SRN:** [Your SRN]  
+**Name:** Saiesh Shankar
+**SRN:** PES1UG24CS401
 **Platform:** Ubuntu 22.04
 
 ---
