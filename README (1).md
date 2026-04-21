@@ -72,11 +72,11 @@ I implemented `head_read`, `head_update`, and `commit_create` in `commit.c`, and
 
 ### Screenshot 4B — `find .pes -type f | sort` after three commits
 
-*(Screenshot 4B not available)*
+
 
 ### Screenshot 4C — `cat .pes/refs/heads/main` and `cat .pes/HEAD`
 
-*(Screenshot 4C not available)*
+
 
 ---
 
